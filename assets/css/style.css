@@ -1,0 +1,30 @@
+#orTable {
+    max-height: 600px !important;
+    overflow: auto;
+}
+
+#quick_links {
+    padding-left: 25% !important;
+}
+
+.active_link {
+    color: #0e3350 !important;
+}
+  
+.list {
+    float: left;
+    /* min-width: 145px; */
+}
+/* #quick_links ul {
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+#quick_links ul li {
+    margin: 0;
+    float: left;
+}
+#quick_links ul li a {
+    padding: 5px;
+    text-decoration: none;
+} */
